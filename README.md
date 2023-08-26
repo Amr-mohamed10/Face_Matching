@@ -5,8 +5,6 @@ This repository contains a Python script that compares two images and determines
 ## Installation
 
 To run the script, you need to install the following dependencies:
-
-```shell
 !pip install opencv-python
 !pip install face-recognition
 
@@ -14,6 +12,7 @@ To run the script, you need to install the following dependencies:
  Upload Image Files:
   If you are using Google Colab, you can upload your image files by running the following code
   Make sure to upload the images you want to compare.
+
 ## Results:
 The script will compare the faces in the provided images and display the results:
 
